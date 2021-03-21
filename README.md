@@ -1,1 +1,1 @@
-# content_management_system_project
+Launch School's RB175 app for a content management system
